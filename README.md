@@ -4,16 +4,9 @@ This site was created using [**Docsify**](https://docsify.js.org), which is an o
 
 ![Welcome to Opensource.com](./images/cover.jpg) -->
 
-# Start Here
-<!-- Det nödvändigaste, installationer, viktiga kommandon -->
-
-# Reference Guide
-<!-- Funktioner, Inputs, Outputs, Saklig och mycket fakta -->
-
 # Tutorials
 <!-- Personlig ton, visar hur appen ska användas -->
 
-# Learning/Understanding
 <!-- Ger svar på varför vissa saker ser ut och är implementerade på vissa sätt -->
 
 # Cookbook/Recipe
