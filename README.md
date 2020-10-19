@@ -4,10 +4,12 @@ This site was created using [**Docsify**](https://docsify.js.org), which is an o
 
 ![Welcome to Opensource.com](./images/cover.jpg) -->
 
-# Tutorials
+<!-- # Tutorials -->
 <!-- Personlig ton, visar hur appen ska användas -->
 
 <!-- Ger svar på varför vissa saker ser ut och är implementerade på vissa sätt -->
 
-# Cookbook/Recipe
+<!-- # Cookbook/Recipe -->
 <!-- Cut-n-Paste lösningar på vanliga problem, förklaringar och ger alltid den  -->
+
+# Welcome to Crazy_Criminals Projekt!
